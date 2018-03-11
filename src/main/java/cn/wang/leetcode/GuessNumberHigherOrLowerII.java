@@ -1,7 +1,7 @@
 /**
  * 
  */
-package cn.wang.leetcode.GuessNumberHigherOrLowerII;
+package cn.wang.leetcode;
 
 /**
  * @ClassName: GuessNumberHigherOrLowerII 
