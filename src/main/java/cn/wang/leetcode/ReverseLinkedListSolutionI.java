@@ -10,14 +10,6 @@ package cn.wang.leetcode;
  * @date 2018Äê3ÔÂ15ÈÕ 
  */
 
-
-class ListNode{
-	int val;
-	ListNode next;
-	public ListNode(int x){
-		this.val = x;
-	}
-}
 public class ReverseLinkedListSolutionI {
 	public ListNode reverseList(ListNode head){
 		ListNode newHead = null,next = null;
